@@ -5,6 +5,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
+        inter: ['Inter', 'sans-serif'],
+        gochi: ['Gochi Hand', 'cursive'],
         sans: [
           "Inter",
           "ui-sans-serif",
